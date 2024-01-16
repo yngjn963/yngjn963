@@ -2,6 +2,11 @@
 Django Rest Framework
 API
 
+정보처리기사
+네트워크
+파이썬
+AWS
+
 ### Hi there 👋
 
 <!--
