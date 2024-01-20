@@ -7,6 +7,29 @@ API
 파이썬
 AWS
 
+Kotlin	2
+Spring boot	2
+Spring
+Angular
+Typescript	5
+Javascript		3
+React-Native	2
+Redux	2
+CodePush
+Git	2
+AWS/GCP	4
+Node.js	7
+NoSQL	2
+HTML
+SCSS
+Java	4
+MySQL	2
+Redis
+Python	3
+MongoDB	2
+S3
+Nest.js
+
 - 정보처리기사
 소프트웨어 생명주기, 소프트웨어 프로세스 모형, 소프트웨어 공학 패러다임
 폭포수 모형, 프로토타입 모형, 나선형 모형, 애자일 모형
