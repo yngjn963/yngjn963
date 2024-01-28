@@ -1,0 +1,5 @@
+1부 API 디자인 기초
+    1) API 디자인이란 무엇인가?
+        웹 애플리케이션 프로그래밍 인터페이스(API, Application Programming Interface)
+        소셜 네트워크 앱에서 작동하는 사진 공유 기능
+         . 카메라 API(사진 촬영) - 이미지 라이브러리 API(색상 반전) - 원격 API(사진 공유)
