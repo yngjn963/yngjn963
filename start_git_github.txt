@@ -1,3 +1,6 @@
 인증 방법: ID/PW >> 토른 or OAuth
 GitHub Token: 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
 터미널, 소스트리 프로그램에서 패스워드 대신 사용
+
+Git 이란?
+형상 관리 시스템(Verson Control System) 의 한 종류입니다. 주로 개발자들이 프로그램과 관련된 파일들을 저장하는 데 사용합니다. 게임의 세이브 포인트와 유사한데, 언제든지 저장 시점으로 되돌아 갈 수 있습니다. 여기서는 세 가지 기본 기념만 배우려 합니다.
